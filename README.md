@@ -1,2 +1,2 @@
 # Powerbi_sales_data_and_forcasting_project
-In this project I analyze the previous data of a store are present it with the help of Power BI apart from this I also include the predicted forecasting data which helps the store to enhance productivity.  
+Sales analytics is the practice of generating insights from sales data, trends, and metrics to set targets and forecast future sales performance. The best practice for sales analytics is to closely tie all activities to determine revenue outcomes and set objectives for your sales team.
